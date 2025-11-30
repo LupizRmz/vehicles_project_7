@@ -13,9 +13,11 @@
 
 
 # Cargar todas las librerías
-import pandas as pd
-import scipy.stats
+
 import streamlit as st
+import pandas as pd
+import plotly.express as px
+import matplotlib.pyplot as plt
 import time
 
 
