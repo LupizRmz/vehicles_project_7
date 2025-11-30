@@ -1,2 +1,6 @@
 # vehicles_project_7
-Se llevara acabo el proyecto del sprint 7 en donde realizare algunos analisis y corre mi aplicación web 
+Analisis de vehiculos 
+
+Análisis para determinar qué factores influyen en el precio de un vehículo y qué tanto influyen.
+
+Características a destacar: pandas, numpy, matplot, corregir valores duplicados, ausentes y atípicos, tipos de datos erróneos, clasificar datos, diccionario
