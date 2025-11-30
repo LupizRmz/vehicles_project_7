@@ -25,7 +25,7 @@ import time
 
 
 # Cargar el archivo de datos en un DataFrame
-car_data = pd.read_csv('../vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 
 # ### Explorar datos iniciales
